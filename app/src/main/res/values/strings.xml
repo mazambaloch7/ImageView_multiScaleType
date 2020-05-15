@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ImageView</string>
+
+
+
+    <string name="center">Center</string>
+    <string name="centerCrop">centerCrop</string>
+    <string name="fitXY">fitXY</string>
+    <string name="centerInside">centerInside</string>
+    <string name="fitCenter">fitCenter</string>
+    <string name="fitEnd">fitEnd</string>
+    <string name="fitStart">fitStart</string>
+    <string name="matrix">matrix</string>
+
+</resources>
